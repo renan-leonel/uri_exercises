@@ -1,1 +1,3 @@
 pra enviar pro uri, precisamos colocar o "/dev/", para compilarmos no vscode retiramos isso
+
+alguns exercícios não passaram no uri em javascript, então os resolvi em C também
